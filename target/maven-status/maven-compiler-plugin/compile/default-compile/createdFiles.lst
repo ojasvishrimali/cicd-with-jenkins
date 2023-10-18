@@ -1,0 +1,5 @@
+com\petapplication\repository\PetRepository.class
+com\petapplication\service\PetService.class
+com\petapplication\controller\PetController.class
+com\petapplication\entity\Pet.class
+com\petapplication\PetApplication.class
